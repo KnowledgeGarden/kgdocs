@@ -1,2 +1,2 @@
-# osdocs
-OpenSherlock documentation
+# kgdocs
+KnowledgeGarden documentation
